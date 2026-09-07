@@ -22,6 +22,4 @@ An Android app that fetches and displays information about football clubs and le
 1. Clone the repo and open it in Android Studio.
 2. Sync Gradle and run on an emulator or physical device.
 
-## Status
 
-Built as a university project to practice consuming REST APIs, local persistence with Room, and building search/filter UI in Jetpack Compose.
